@@ -1,0 +1,20 @@
+# Environment variables
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Operating system-related files
+.DS_Store
+Thumbs.db
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/misc.xml
+.idea/vcs.xml
+.idea/Project_work_Verde.iml
+.idea/modules.xml
+.idea/csv-editor.xml
